@@ -20,7 +20,7 @@ This repository includes example code for STED microscopy analysis and serves as
 
 ```text
 hei-sporo-code/
-├── environment.yml        # Conda environment file for this and related repos
-│                          # ⚠️ JAX version might need to be adapted to your system
 ├── STED/
 │   └── AnalyzeSTED.ipynb  # Angular profile generation and microtubule position inference
+└── environment.yml        # Conda environment file
+                           # ⚠️ JAX version might need to be adapted to your system
