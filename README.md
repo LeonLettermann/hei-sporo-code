@@ -2,7 +2,7 @@
 
 **Overview repository for an upcoming publication on *Plasmodium* sporozoite movement.**
 
-This repository includes example code for STED microscopy analysis and serves as an entry point to related projects.
+This repository serves as an entry point to a collection of different code packages related to image analysis and simulation of sporozoite motility.
 
 ## Related Repositories
 
